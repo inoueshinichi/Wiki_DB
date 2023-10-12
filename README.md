@@ -1,9 +1,12 @@
-# MySQL, PostgreSQL, SQLite
+# How to use SQLs for DB
+詳細はWikiに記載.</br>
 
-# MySQL
+## RDBMS
++ PostgreSQL https://github.com/inoueshinichi/Wiki_SQL/wiki/Wiki_PostgreSQL
++ MySQL
 
-# PostgreSQL
-+ Wiki https://github.com/inoueshinichi/Wiki_SQL/wiki/Wiki_PostgreSQL
-
-# SQLite
+## NoSQL
++ Redis
++ SQLite
++ MongoDB
 
